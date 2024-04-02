@@ -1,1 +1,1 @@
-Deep Leraning Projects
+Personal Deep Learning Projects
